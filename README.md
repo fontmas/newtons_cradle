@@ -8,4 +8,4 @@ This project was reimported in July 2020 and rebuilt on Unity 2017.4.40f1.
 
 Visit my other projects at:
 - https://fontmas.itch.io/
-- https://www.ludabyte.com
+- https://www.ludabyte.com/
