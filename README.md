@@ -2,7 +2,7 @@
 
 **Created by Mario Madureira Fontes**
 
-![alt text](https://github.com/fontmas/newtons_cradle/blob/master/Assets/NewtonsCradle/Images/Screen.jpg?raw=true)
+![alt text](https://github.com/fontmas/newtons_cradle/blob/master/Assets/NewtonsCradle/Images/Screen.png?raw=true)
 
 Originally this project was created in 2010 on Unity 3D 2.6.0.
 
